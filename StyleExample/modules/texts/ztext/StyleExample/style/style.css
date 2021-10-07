@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: 'Custom HISB Font';
+    src: url('./SILEOTSR.ttf') format('truetype');
+}
+
+
+.titleStyle {
+    font-family: 'Custom HISB Font';
+    font-size: 300%;
+}
+
+body {
+    background: url('./background.png') repeat;
+}
+
